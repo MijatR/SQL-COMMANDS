@@ -15,6 +15,7 @@ describe departments;
 //Monika Karanovic
     Select table_name from user_tables;
 
+//Tina Karanovic
 
     -- giving you firstname and last name of the employees
     SELECT first_name, last_name
