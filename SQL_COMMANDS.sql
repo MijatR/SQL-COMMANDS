@@ -12,7 +12,7 @@ describe departments;
     describe locations;
 
 
-
+//Monika Karanovic
     Select table_name from user_tables;
 
 
