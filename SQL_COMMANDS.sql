@@ -12,9 +12,10 @@ describe departments;
     describe locations;
 
 
-
+//Monika Karanovic
     Select table_name from user_tables;
 
+//Tina Karanovic
 
     -- giving you firstname and last name of the employees
     SELECT first_name, last_name
@@ -481,5 +482,5 @@ FROM STUDENTS;
 DELETE FROM STUDENTS
 WHERE student_id='204';
 
-
-
+Mergin the file to Master branch
+akjdssajdbsakd
